@@ -1,2 +1,2 @@
 # myportfolio
-this repository is my portfolio
+this repository is my portfolio.
